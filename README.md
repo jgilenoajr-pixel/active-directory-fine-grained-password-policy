@@ -215,3 +215,40 @@ All required configuration items were successfully implemented and validated.
 Fine-Grained Password Policies provide granular control over authentication security in Active Directory.
 
 In this lab, the Accounting department received stronger password and account lockout requirements through the `AccountingPasswords` PSO while the broader domain password policy remained unchanged.
+
+
+---
+
+## Implementation Screenshots
+
+### 1. Create Password Settings Object
+
+![Create Password Settings](screenshots/01-create-password-settings.png)
+
+### 2. Accounting Password Configuration
+
+![Accounting Password Configuration](screenshots/02-accounting-passwords-configuration.png)
+
+### 3. Select Accounting Group
+
+![Select Accounting Group](screenshots/03-select-accounting-group.png)
+
+### 4. Directly Applies To
+
+![Directly Applies To](screenshots/04-directly-applies-to.png)
+
+### 5. Verify Password Settings
+
+![Verify Password Settings](screenshots/05-verify-password-settings.png)
+
+### 6. Accounting Group Assignment
+
+![Accounting Group Assignment](screenshots/06-accounting-group-assignment.png)
+
+### 7. PSO Created
+
+![PSO Created](screenshots/07-pso-created.png)
+
+### 8. Lab Result — 9/9 (100%)
+
+![Lab Result](screenshots/08-lab-result-9-9-100-percent.png)
